@@ -22,7 +22,7 @@
 
 
 <h3 align="left">GitHub Stats</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bobadekenny&show_icons=true&locale=en&layout=compact" alt="bobadekenny" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bobadekenny&langs_count=8&show_icons=true&locale=en&layout=compact" alt="bobadekenny" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bobadekenny&show_icons=true&locale=en" alt="bobadekenny" /></p>
 
