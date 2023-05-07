@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kehinde Bobade</h1>
 
-<h3 align="center">Software Engineer, CS Undergrad. Interested in Web Development, Artificial Intelligence and Blockchain Development.</h3>
+<h3 align="center">Software Engineer. Interested in Web Development, Artificial Intelligence and Blockchain Development.</h3>
 
 - 🌱 I’m currently learning **about software engineering at alx.africa**
 
