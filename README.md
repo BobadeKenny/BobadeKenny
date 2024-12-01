@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineer. Interested in Web Development, Artificial Intelligence and Blockchain Development.</h3>
 
-- 🌱 I’m currently learning **about software engineering at alx.africa**
+- 🌱 I’m currently into **developing solutions with software engineering**
 
 - 📝 I write articles sometimes on [https://hashnode.com/@KennyB](https://hashnode.com/@KennyB)
 
